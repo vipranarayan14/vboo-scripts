@@ -1,4 +1,5 @@
 const vtranslit = require('remark-vtranslit');
+const vbooCustomBlocks = require('./vboo-custom-blocks');
 const remark = require('remark');
 const html = require('remark-html');
 const report = require('vfile-reporter');
@@ -15,6 +16,7 @@ const convertToHtml = data =>
         vTranslitSchemeItrn,
         vTranslitSchemeDeva
       ])
+      .use(vbooCustomBlocks)
       .use(html)
       .process(data, (err, file) => err ?
 
