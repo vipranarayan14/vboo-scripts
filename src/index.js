@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { watchFiles } = require('./start');
 const { log } = require('./utils');
 
