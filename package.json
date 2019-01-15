@@ -19,10 +19,9 @@
   "bin": {
     "vboo-scripts": "src/index.js"
   },
-  "directories": {
-    "bin": "src",
-    "test": "test"
-  },
+  "files": [
+    "src"
+  ],
   "scripts": {
     "eslint": "eslint . --ignore-path .gitignore",
     "test": "npm run eslint",
