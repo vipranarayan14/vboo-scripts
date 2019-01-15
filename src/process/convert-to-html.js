@@ -1,5 +1,6 @@
 const vtranslit = require('remark-vtranslit');
 const vbooCustomBlocks = require('./vboo-custom-blocks');
+const remarkWrapper = require('./remark-wrapper');
 const remark = require('remark');
 const html = require('remark-html');
 const report = require('vfile-reporter');
@@ -12,6 +13,9 @@ const convertToHtml = data =>
   new Promise((resolve, reject) => {
 
     remark()
+      .use(remarkWrapper, {
+        nodeName: 'table'
+      })
       .use(vtranslit, [
         vTranslitSchemeItrn,
         vTranslitSchemeDeva
