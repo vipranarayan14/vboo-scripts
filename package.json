@@ -14,6 +14,9 @@
   },
   "homepage": "https://github.com/vipranarayan14/vboo-scripts#readme",
   "main": "src/index.js",
+  "bin": {
+    "vboo-scripts": "src/index.js"
+  },
   "directories": {
     "bin": "src",
     "test": "test"
