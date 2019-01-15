@@ -20,7 +20,9 @@
   },
   "scripts": {
     "eslint": "eslint . --ignore-path .gitignore",
-    "test": "npm run eslint"
+    "test": "npm run eslint",
+    "version": "git add -A",
+    "postversion": "git push && git push --tags"
   },
   "dependencies": {},
   "devDependencies": {
