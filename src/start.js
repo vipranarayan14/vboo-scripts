@@ -27,7 +27,7 @@ const initWatch = () => {
 
 };
 
-const watchFiles = () => {
+const start = () => {
 
   const { NODE_ENV } = process.env;
 
@@ -47,4 +47,4 @@ const watchFiles = () => {
 
 };
 
-module.exports = { watchFiles };
+module.exports = { start };
