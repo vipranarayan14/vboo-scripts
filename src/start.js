@@ -41,7 +41,7 @@ const start = () => {
 
   }
 
-  build().then(initServer);
+  initServer();
 
   return initWatch();
 
