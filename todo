@@ -1,0 +1,9 @@
+build: read --> process [if(md)] --> write 
+serve: middleware --> serve from mfs
+
+dev:
+    write: clean --> write to mfs 
+    watch: build & serve
+
+prod:
+    write: clean --> write to fs
