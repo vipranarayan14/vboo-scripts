@@ -15,12 +15,12 @@
     "url": "https://github.com/vipranarayan14/vboo-scripts/issues"
   },
   "homepage": "https://github.com/vipranarayan14/vboo-scripts#readme",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "bin": {
-    "vboo-scripts": "src/index.js"
+    "vboo-scripts": "lib/index.js"
   },
   "files": [
-    "src"
+    "lib"
   ],
   "scripts": {
     "eslint": "eslint . --ignore-path .gitignore",
