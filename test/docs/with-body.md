@@ -46,6 +46,3 @@ Mr. //rAm//
 [17]: #/shadlinga-prakaranam/raama-sabdah/raama-7-1
 [18]: #/shadlinga-prakaranam/raama-sabdah/raama-7-2
 [19]: #/shadlinga-prakaranam/raama-sabdah/raama-7-3
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODUyODE4Ml19
--->
