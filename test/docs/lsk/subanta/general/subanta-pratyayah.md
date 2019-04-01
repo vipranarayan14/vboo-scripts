@@ -122,9 +122,94 @@ Similarly, the same //prAtipadika// when we added with the third //pratyaya//
 from the same //vibhakti,// //'bhis'// which has the //bahuvachana-saMj~nA//
 (label) --
 
+(1)
+
 :::prakriya
+
+//bAla + su//
+:::
+
+(2)
+
+:::prakriya
+//rAma + as//
+
+= //rAm(a + a)s//
+
+= //rAm(A)s ...............[pUrva-savarNa-dIrghaH]//
+
+= //rAmAs//
+
+:::
+
+(2)
+
+:::prakriya
+//rAm(a + a)m//
+
+both are replaced by the last letter of the //prAtipadika// --
+
+= //rAm(a)m//
+
+= //rAmam//
+:::
+
+(3)
+
+:::prakriya
+//rAma + au//
+:::
+
+(4)
+
+:::prakriya
+
+//bAla + bhis//  
+
 //bAla + bhis//
 :::
+
+(5)
+
+:::prakriya
+//bAla + bhis//
+
+//bAla + bhis//
+:::
+
+(6)
+:::prakriya
+
+//bAla + bhis//
+
+//bAla + bhis//
+:::
+
+(7)
+
+:::prakriya
+//bAla + bhis//
+
+//bAla + bhis//
+
+:::
+:::prakriya
+//bAla + bhis//
+
+//bAla + bhis//
+::::::prakriya
+//bAla + bhis//
+
+//bAla + bhis//
+:::
+
+(9)
+:::prakriya
+//bAla + bhis//
+
+//bAla + bhis//
+:::
+
 
 we get the meaning, 'by many boys'.
 
