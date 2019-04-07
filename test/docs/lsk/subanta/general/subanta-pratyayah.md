@@ -177,7 +177,8 @@ both are replaced by the last letter of the //prAtipadika// --
 //bAla + bhis//
 :::
 
-(6)
+(6) with newline after block start - should pass
+
 :::prakriya
 
 //bAla + bhis//
@@ -185,7 +186,7 @@ both are replaced by the last letter of the //prAtipadika// --
 //bAla + bhis//
 :::
 
-(7)
+(7) with newline before block end - should pass
 
 :::prakriya
 //bAla + bhis//
@@ -193,6 +194,9 @@ both are replaced by the last letter of the //prAtipadika// --
 //bAla + bhis//
 
 :::
+
+(8) without newline before block - should fail
+
 :::prakriya
 //bAla + bhis//
 
@@ -203,19 +207,31 @@ both are replaced by the last letter of the //prAtipadika// --
 //bAla + bhis//
 :::
 
-(9)
+(9) without newline before block - should fail
+
+Hello Block
 :::prakriya
 //bAla + bhis//
 
 //bAla + bhis//
 :::
 
+(10) with double-space after block name - should pass
+
+:::prakriya
+//bAla + bhis//
+
+//bAla + bhis//
+:::
 
 we get the meaning, 'by many boys'.
 
 This way, the //subanta-pratyayas// can be added to the //prAtipadika//-s to
 give them the senses of //vibhakti// and //vachana//, and thereby, making them
 usable in a sentence.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDE0NTYyM119
--->
+
+<style>
+.vboo-blocks.prakriya-block {
+    background-color: green;
+}
+</style>
